@@ -1,12 +1,15 @@
 Getting Started
 ---------------
 
-To get started with Android/BeanStalk, you'll need to get
+This is a project base on BeanStalk, with Chinese Location, Lunar and so on. It builds for Chinese user.
+Thanks scotthartbti, CyanogenMod, SudaMod and some I forgot.
+
+To get started with Android/BeanStalk(Chinese build), you'll need to get
 familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
 
 To initialize your local repository using the BeanStalk trees, use a command like this:
 
-    repo init -u git://github.com/scotthartbti/android.git -b bs6
+    repo init -u git://github.com/Ninxes/android.git -b bs6
 
 Then to sync up:
 
